@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+h2{
+    text-transform: capitalize;
+    /* margin: 10% 0% 0% 35%; */
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 2.5rem;
+    font-style: normal;
+}
+
+/* img{
+    width: 400px;
+    margin-top: -6%;
+} */
+
+.description{
+    /* margin-left: 35%;
+    margin-top: -24%; */
+    width: 380px;
+}
+
+/* .price{
+    margin-top: 2%;
+    margin-left: 35%;
+} */

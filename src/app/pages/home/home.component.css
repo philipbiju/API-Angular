@@ -1,0 +1,9 @@
+.row{
+    flex-wrap: nowrap;
+    overflow: scroll;
+}
+
+h2{
+    text-transform: capitalize;
+    text-align: center;
+}

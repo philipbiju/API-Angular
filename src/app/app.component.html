@@ -1,10 +1,2 @@
-<div class="container">
-    <div *ngFor="let category of getCategories()" class="category-section">
-      <h2>{{ category }}</h2>
-      <div class="row m-5">
-        <div *ngFor="let item of getProductsByCategory(category)" class="col">
-          <app-card [myItem]="item"></app-card>
-        </div>
-      </div>
-    </div>
-  </div>
+
+<router-outlet> </router-outlet>  
